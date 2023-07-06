@@ -2,9 +2,9 @@ package cinema.dao.impl;
 
 import cinema.dao.AbstractDao;
 import cinema.dao.RoleDao;
+import cinema.exception.DataProcessingException;
 import cinema.model.Role;
 import java.util.Optional;
-import cinema.exception.DataProcessingException;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.stereotype.Repository;
