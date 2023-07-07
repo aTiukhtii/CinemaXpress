@@ -28,7 +28,7 @@ This is a diagram of the application provided to help you understand how it work
 ### 🔨Technologies
 - Java 17
 - Spring Web MVC, Spring Security, Hibernate
-- MySQL, Tomcat, Maven
+- MySQL 8.0, Tomcat 9.0.76, Maven
 
 
 ### 📂 Project structure:
