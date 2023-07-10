@@ -2,7 +2,7 @@
 
 ### 📄 Project description:
 
-Web statless app that supports user authentication, authorization, and CRUD operations with app entities built using Spring and Hibernate frameworks. Allows users to send HTTP requests by endpoints(GET, POST, PUT, DELETE) depending on their role.
+Web stateless app that supports user authentication, authorization, and CRUD operations with app entities built using Spring and Hibernate frameworks. Allows users to send HTTP requests by endpoints(GET, POST, PUT, DELETE) depending on their role.
 
 ### 💻 Current project functionality:
 Application users can have USER or ADMIN roles. USER role assigns automatically to every newly registered user.
