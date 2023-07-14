@@ -1,4 +1,4 @@
-# 🎥 Cinema web app
+# 🎥 CinemaXpress app
 
 ### 📄 Project description:
 
